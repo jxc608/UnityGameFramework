@@ -1,0 +1,1 @@
+{"sTag":"","step":[{"tag":"1","actions":[{"class":"DialogTutorialAction","char":0,"snd":0,"acty":false,"tId":10001,"delay":0.0}],"events":[{"class":"MaskClickTutorialEvent","drag":false,"trpt":false,"maAl":0.4,"nTag":[""]}]}],"events":[],"actions":[]}

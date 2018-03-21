@@ -1,0 +1,112 @@
+{
+    "90001": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 1, 
+        "songID": "90001", 
+        "songName": "We are family", 
+        "songScript": "WeAreFamily|WeAreFamily", 
+        "teachSceneBG": "WeAreFamily"
+    }, 
+    "90002": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 1, 
+        "songID": "90002", 
+        "songName": "My body (Part I)", 
+        "songScript": "MyBodyPartI|MyBodyPartI", 
+        "teachSceneBG": "WhatICanDo"
+    }, 
+    "90003": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 2, 
+        "songID": "90003", 
+        "songName": "My body (Part II)", 
+        "songScript": "MyBodyPartII|MyBodyPartII", 
+        "teachSceneBG": "WhatICanDoHard"
+    }, 
+    "90004": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "80|100", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 2, 
+        "songID": "90004", 
+        "songName": "What can I do?", 
+        "songScript": "WhatCanIDo2|WhatCanIDo1", 
+        "teachSceneBG": "WhatICanDo"
+    }, 
+    "90005": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 2, 
+        "songID": "90005", 
+        "songName": "In a day", 
+        "songScript": "InADay|InADay", 
+        "teachSceneBG": "WhatICanDoHard"
+    }, 
+    "90006": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 3, 
+        "songID": "90006", 
+        "songName": "Colorful rainbow", 
+        "songScript": "ColorfulRainbow|ColorfulRainbow", 
+        "teachSceneBG": "WeAreFamily"
+    }, 
+    "90007": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 5, 
+        "songID": "90007", 
+        "songName": "Our world", 
+        "songScript": "OurWorld|OurWorld", 
+        "teachSceneBG": "OurWorld"
+    }, 
+    "90008": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff01><b>太阳</b></color>\n\nኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼዘኼ\u0000\u0000￿￿\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 5, 
+        "songID": "90008", 
+        "songName": "test001", 
+        "songScript": "test001|test001", 
+        "teachSceneBG": "test001"
+    }, 
+    "90009": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff02><b>太阳</b></color>\n\nኼዘኼ\u0000\u0000￿￿\u0014\u0000\u0000\u0000ዀኼዌኼ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 6, 
+        "songID": "90009", 
+        "songName": "You see what", 
+        "songScript": "You see what|You see what", 
+        "teachSceneBG": "test002"
+    }, 
+    "99999": {
+        "educationText": "\n   <size='48'><color=#ffffff>What can you see in the <color=#ffff00><b>sky</b></color>?\n        在<color=#ffff00><b>天</b></color>上你能看见什么?\n\n     I can see the <color=#ffff00><b>sky</b></color>\n          我能看见<color=#ffff00><b>太阳</b></color>\n\n                    the <color=#ffff00><b>moon</b></color>\n                       <color=#ffff00><b>月亮</b></color>\n\n                       the <color=#ffff00><b>stars</b></color>\n                          <color=#ffff00><b>星星</b></color></color></size>", 
+        "offset": "0|0", 
+        "songAuthorIconUrl": "icon_txtxp", 
+        "songAuthorName": "txtxp", 
+        "songDifficultyStar": 5, 
+        "songID": "99999", 
+        "songName": "This is halloween", 
+        "songScript": "ThisIsHalloween|ThisIsHalloween", 
+        "teachSceneBG": "WhatICanDoHard"
+    }
+}

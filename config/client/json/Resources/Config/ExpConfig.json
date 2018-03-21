@@ -1,0 +1,252 @@
+{
+    "1": {
+        "energy": 6, 
+        "exp": 0, 
+        "level": 1
+    }, 
+    "10": {
+        "energy": 7, 
+        "exp": 196, 
+        "level": 10
+    }, 
+    "11": {
+        "energy": 7, 
+        "exp": 231, 
+        "level": 11
+    }, 
+    "12": {
+        "energy": 7, 
+        "exp": 270, 
+        "level": 12
+    }, 
+    "13": {
+        "energy": 7, 
+        "exp": 314, 
+        "level": 13
+    }, 
+    "14": {
+        "energy": 7, 
+        "exp": 364, 
+        "level": 14
+    }, 
+    "15": {
+        "energy": 7, 
+        "exp": 421, 
+        "level": 15
+    }, 
+    "16": {
+        "energy": 7, 
+        "exp": 486, 
+        "level": 16
+    }, 
+    "17": {
+        "energy": 7, 
+        "exp": 561, 
+        "level": 17
+    }, 
+    "18": {
+        "energy": 7, 
+        "exp": 648, 
+        "level": 18
+    }, 
+    "19": {
+        "energy": 7, 
+        "exp": 748, 
+        "level": 19
+    }, 
+    "2": {
+        "energy": 6, 
+        "exp": 15, 
+        "level": 2
+    }, 
+    "20": {
+        "energy": 8, 
+        "exp": 864, 
+        "level": 20
+    }, 
+    "21": {
+        "energy": 8, 
+        "exp": 999, 
+        "level": 21
+    }, 
+    "22": {
+        "energy": 8, 
+        "exp": 1155, 
+        "level": 22
+    }, 
+    "23": {
+        "energy": 8, 
+        "exp": 1337, 
+        "level": 23
+    }, 
+    "24": {
+        "energy": 8, 
+        "exp": 1549, 
+        "level": 24
+    }, 
+    "25": {
+        "energy": 8, 
+        "exp": 1796, 
+        "level": 25
+    }, 
+    "26": {
+        "energy": 8, 
+        "exp": 2085, 
+        "level": 26
+    }, 
+    "27": {
+        "energy": 8, 
+        "exp": 2423, 
+        "level": 27
+    }, 
+    "28": {
+        "energy": 8, 
+        "exp": 2818, 
+        "level": 28
+    }, 
+    "29": {
+        "energy": 8, 
+        "exp": 3280, 
+        "level": 29
+    }, 
+    "3": {
+        "energy": 6, 
+        "exp": 31, 
+        "level": 3
+    }, 
+    "30": {
+        "energy": 9, 
+        "exp": 3822, 
+        "level": 30
+    }, 
+    "31": {
+        "energy": 9, 
+        "exp": 4457, 
+        "level": 31
+    }, 
+    "32": {
+        "energy": 9, 
+        "exp": 5201, 
+        "level": 32
+    }, 
+    "33": {
+        "energy": 9, 
+        "exp": 6073, 
+        "level": 33
+    }, 
+    "34": {
+        "energy": 9, 
+        "exp": 7095, 
+        "level": 34
+    }, 
+    "35": {
+        "energy": 9, 
+        "exp": 8294, 
+        "level": 35
+    }, 
+    "36": {
+        "energy": 9, 
+        "exp": 9701, 
+        "level": 36
+    }, 
+    "37": {
+        "energy": 9, 
+        "exp": 11352, 
+        "level": 37
+    }, 
+    "38": {
+        "energy": 9, 
+        "exp": 13290, 
+        "level": 38
+    }, 
+    "39": {
+        "energy": 9, 
+        "exp": 15564, 
+        "level": 39
+    }, 
+    "4": {
+        "energy": 6, 
+        "exp": 49, 
+        "level": 4
+    }, 
+    "40": {
+        "energy": 10, 
+        "exp": 18234, 
+        "level": 40
+    }, 
+    "41": {
+        "energy": 10, 
+        "exp": 21369, 
+        "level": 41
+    }, 
+    "42": {
+        "energy": 10, 
+        "exp": 25049, 
+        "level": 42
+    }, 
+    "43": {
+        "energy": 10, 
+        "exp": 29370, 
+        "level": 43
+    }, 
+    "44": {
+        "energy": 10, 
+        "exp": 34444, 
+        "level": 44
+    }, 
+    "45": {
+        "energy": 10, 
+        "exp": 40402, 
+        "level": 45
+    }, 
+    "46": {
+        "energy": 10, 
+        "exp": 47399, 
+        "level": 46
+    }, 
+    "47": {
+        "energy": 10, 
+        "exp": 55616, 
+        "level": 47
+    }, 
+    "48": {
+        "energy": 10, 
+        "exp": 65267, 
+        "level": 48
+    }, 
+    "49": {
+        "energy": 10, 
+        "exp": 76601, 
+        "level": 49
+    }, 
+    "5": {
+        "energy": 6, 
+        "exp": 68, 
+        "level": 5
+    }, 
+    "50": {
+        "energy": 10, 
+        "exp": 89913, 
+        "level": 50
+    }, 
+    "6": {
+        "energy": 6, 
+        "exp": 89, 
+        "level": 6
+    }, 
+    "7": {
+        "energy": 6, 
+        "exp": 112, 
+        "level": 7
+    }, 
+    "8": {
+        "energy": 6, 
+        "exp": 137, 
+        "level": 8
+    }, 
+    "9": {
+        "energy": 6, 
+        "exp": 165, 
+        "level": 9
+    }
+}

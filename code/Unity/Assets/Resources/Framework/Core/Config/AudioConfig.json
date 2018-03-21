@@ -1,0 +1,72 @@
+{
+    "0": {
+        "enum": "None", 
+        "id": 0, 
+        "name": ""
+    }, 
+    "1": {
+        "enum": "BtnClick", 
+        "id": 1, 
+        "name": "SFX/SFX_button"
+    }, 
+    "10": {
+        "enum": "HelpVoice_App_6", 
+        "id": 10, 
+        "name": "SFX/APP_6"
+    }, 
+    "11": {
+        "enum": "HelpVoice_App_7", 
+        "id": 11, 
+        "name": "SFX/APP_7"
+    }, 
+    "152": {
+        "enum": "Jump", 
+        "id": 152, 
+        "name": "SFX/SFX_jump"
+    }, 
+    "160": {
+        "enum": "Win", 
+        "id": 160, 
+        "name": "SFX/SFX_win"
+    }, 
+    "161": {
+        "enum": "Lose", 
+        "id": 161, 
+        "name": "SFX/SFX_lose"
+    }, 
+    "164": {
+        "enum": "Enter", 
+        "id": 164, 
+        "name": "SFX/SFX_enter"
+    }, 
+    "4": {
+        "enum": "FloatTip", 
+        "id": 4, 
+        "name": "SFX/SFX_float"
+    }, 
+    "5": {
+        "enum": "HelpVoice_App_1", 
+        "id": 5, 
+        "name": "SFX/APP_1"
+    }, 
+    "6": {
+        "enum": "HelpVoice_App_2", 
+        "id": 6, 
+        "name": "SFX/APP_2"
+    }, 
+    "7": {
+        "enum": "HelpVoice_App_3", 
+        "id": 7, 
+        "name": "SFX/APP_3"
+    }, 
+    "8": {
+        "enum": "HelpVoice_App_4", 
+        "id": 8, 
+        "name": "SFX/APP_4"
+    }, 
+    "9": {
+        "enum": "HelpVoice_App_5", 
+        "id": 9, 
+        "name": "SFX/APP_5"
+    }
+}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa50c02b54565420f88d63364f4d72a4, type: 3}
+  m_Name: ConfigurationController
+  m_EditorClassIdentifier: 
+  HttpHostList:
+  - qa-api.snaplingo.com
+  HttpProductionHost: 
+  HttpSecurityType: 
+  HttpSecuritySecret: 
+  HttpSessionField: 
+  HttpToken: c25hcGxpbmdvOnNuYXBsaW5nbw
+  HttpTimeOutDuration: 15
+  ServerProjectName: server_framework
+  _DefaultLanguage: 1
+  _DestroyUnusedConfigs: 1
+  _AesKey: A(*&h69*&h69*&H8j987j*(J*&ytR*7b
+  _QQAppId_iOS: 
+  _QQAppId_Android: 
+  _WechatAppId: 
+  _SaveDataIndexFileKey: SnapLocalFile
+  _CanvasResolution: {x: 2048, y: 1536}
+  _AndroidKeyAlias: snap
+  _FirstScene: SelectScene
+  _FirstScenePage: SelectScenePage
+  _BakeIntensity: 1.99
+  _ShadowDistance: 300
+  _BuildAssetBundle_iOS: 1
+  _BuildAssetBundle_Android: 1
+  _BuildSceneAsBundle_iOS: 1
+  _BuildSceneAsBundle_Android: 1

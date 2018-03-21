@@ -1,0 +1,26 @@
+{
+    "101": {
+        "nextStageID": 102, 
+        "stageID": 101, 
+        "stageResource": "USA", 
+        "stageTargetPosition": "USA_1"
+    }, 
+    "102": {
+        "nextStageID": 103, 
+        "stageID": 102, 
+        "stageResource": "USA", 
+        "stageTargetPosition": "USA_2"
+    }, 
+    "103": {
+        "nextStageID": 104, 
+        "stageID": 103, 
+        "stageResource": "USA", 
+        "stageTargetPosition": "USA_3"
+    }, 
+    "104": {
+        "nextStageID": -1, 
+        "stageID": 104, 
+        "stageResource": "USA", 
+        "stageTargetPosition": "USA_4"
+    }
+}
